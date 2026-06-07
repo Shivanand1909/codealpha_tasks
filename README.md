@@ -2,5 +2,5 @@ CodeAlpha Java Internship - Task1 : Student Grade Tracker - Completed and upload
 
 
 
-CodeAlpha Java Internship - Task2 Completed and uploaded
+CodeAlpha Java Internship - Task2 : Stock Trading Platform - Completed and uploaded
 
